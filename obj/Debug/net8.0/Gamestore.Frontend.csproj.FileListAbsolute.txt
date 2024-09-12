@@ -26,3 +26,4 @@ C:\Users\JM_Be\Documents\Projects\Blazor Projects\Gamestore.Frontend\obj\Debug\n
 C:\Users\JM_Be\Documents\Projects\Blazor Projects\Gamestore.Frontend\obj\Debug\net8.0\Gamestore.Frontend.pdb
 C:\Users\JM_Be\Documents\Projects\Blazor Projects\Gamestore.Frontend\obj\Debug\net8.0\Gamestore.Frontend.genruntimeconfig.cache
 C:\Users\JM_Be\Documents\Projects\Blazor Projects\Gamestore.Frontend\obj\Debug\net8.0\ref\Gamestore.Frontend.dll
+C:\Users\JM_Be\Documents\Projects\Blazor Projects\Gamestore.Frontend\obj\Debug\net8.0\Gamestore.Frontend.sourcelink.json

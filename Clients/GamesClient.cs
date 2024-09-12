@@ -13,7 +13,7 @@ public class GamesClient
             Name = "The Witcher 3: Wild Hunt",
             Genre = "RPG",
             Price = 29.99m,
-            ReleaseDate = new DateTime(2015, 5, 19),
+            ReleaseDate = new DateOnly(2015, 5, 19),
         },
         new GameSummary
         {
@@ -21,7 +21,7 @@ public class GamesClient
             Name = "Cyberpunk 2077",
             Genre = "RPG",
             Price = 59.99m,
-            ReleaseDate = new DateTime(2020, 12, 10),
+            ReleaseDate = new DateOnly(2020, 12, 10),
         },
         new GameSummary
         {
@@ -29,7 +29,7 @@ public class GamesClient
             Name = "The Elder Scrolls V: Skyrim",
             Genre = "RPG",
             Price = 39.99m,
-            ReleaseDate = new DateTime(2011, 11, 11),
+            ReleaseDate = new DateOnly(2011, 11, 11),
         },
         new GameSummary
         {
@@ -37,7 +37,7 @@ public class GamesClient
             Name = "Grand Theft Auto V",
             Genre = "Action",
             Price = 29.99m,
-            ReleaseDate = new DateTime(2013, 9, 17),
+            ReleaseDate = new DateOnly(2013, 9, 17),
         },
         new GameSummary
         {
@@ -45,7 +45,7 @@ public class GamesClient
             Name = "Red Dead Redemption 2",
             Genre = "Action",
             Price = 39.99m,
-            ReleaseDate = new DateTime(2018, 10, 26),
+            ReleaseDate = new DateOnly(2018, 10, 26),
         },
     ];
 
